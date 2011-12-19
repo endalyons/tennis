@@ -189,3 +189,18 @@ Product.create(:title => 'Volkl - Organix 10',
   :image_url => '/images/VORG10-1.jpg',
   :price => 184.99)
 # . . .
+     Product.create(:title => 'Wilson - Organix 10',
+  :description =>
+    %{<p>
+        Offering a very fast and maneuverable feel from all areas of the court, this racquet is ideal
+        for the smaller framed player seeking control as well as those looking to maximize spin through
+        superior racquet head speed. Our TW testers were amazed at how stable this racquet felt considering
+        its 11-ounce strung weight. Comfort is also impressive from all areas of the court. The feel at
+        impact is plush yet also loaded with feel so the player feels connected to the depth and direction
+        of their shots. At net the racquet feels extremely mobile making it easy to maneuver into position
+        even during fast exchanges. On serve spin comes easily thanks the open 16x19 string pattern and
+        the easy access to fast swing speeds. All in all, this is an impressive offering for the 4.0 level
+        players and up seeking an emphasis on maneuverability, control and comfort.
+      </p>},
+  :image_url => '/images/VORG10-1.jpg',
+  :price => 184.99)
